@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09679287-d7e4-45bb-9386-16f06aaaec0b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2vB64k2pobmStS07VpQtNp1WirQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array_video_1_question_1.executor": "Run",
+    "Application.Array_video_1_question_2.executor": "Run",
+    "Application.CheckSorted.executor": "Run",
+    "Application.Greatest.executor": "Run",
+    "Application.LongestSubstringWithoutRepeatingCharacters.executor": "Run",
+    "Application.MoveAllZero.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.RotateArrayBykPlaces.executor": "Run",
+    "Application.SecondGreatest.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.UnionOfTwoSortedArray.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/parag/OneDrive/Desktop/JAVA FROM SCRATCH/Dsa_by_Striver"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.LongestSubstringWithoutRepeatingCharacters">
+    <configuration name="CheckSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckSorted" />
+      <module name="Dsa_by_Striver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstringWithoutRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestSubstringWithoutRepeatingCharacters" />
+      <module name="Dsa_by_Striver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoveAllZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoveAllZero" />
+      <module name="Dsa_by_Striver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Dsa_by_Striver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnionOfTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UnionOfTwoSortedArray" />
+      <module name="Dsa_by_Striver" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
+        <item itemvalue="Application.UnionOfTwoSortedArray" />
+        <item itemvalue="Application.CheckSorted" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.MoveAllZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09679287-d7e4-45bb-9386-16f06aaaec0b" name="Changes" comment="" />
+      <created>1743605931261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743605931261</updated>
+    </task>
+    <servers />
+  </component>
+</project>
